@@ -1,7 +1,7 @@
 # Codechef-Chef-and-Icecream-Fully-Correct
 ### Problem  
 ![](capture.png)
-### Program Simulation (3rd Test Case)
+### Program Simulation (Input: 3, 5, 10, 15)
 <pre>
   f = 0, t = 0, cnt = 0, n = 3
 
